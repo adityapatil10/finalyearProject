@@ -1,0 +1,95 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2021.6.3)  3 JUN 2021 16:54
+entering extended mode
+**"C:/Users/91927/Downloads/PBS Report/Seminar Report.tex"
+("C:/Users/91927/Downloads/PBS Report/Seminar Report.tex"
+LaTeX2e <2018-12-01>
+("C:\Users\91927\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\91927\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:/Users/91927/Downloads/PBS Report\inputenc.sty"
+Package: inputenc 2001/07/10 v0.99a Input encoding file 
+LaTeX Info: Redefining \IeC on input line 71.
+
+("C:\Users\91927\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\latin2.def"
+File: latin2.def 2018/08/11 v1.3c Input encoding file
+)) ("C:/Users/91927/Downloads/PBS Report\graphicx.sty"
+Package: graphicx 1996/10/31 v1.0c Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\91927\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\91927\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\91927\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\91927\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\91927\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) ("C:/Users/91927/Downloads/PBS Report\ulem.sty"
+\UL@box=\box27
+\UL@hyphenbox=\box28
+\UL@skip=\skip43
+\UL@hook=\toks15
+\UL@height=\dimen105
+\UL@pe=\count89
+\UL@pixel=\dimen106
+\ULC@box=\box29
+Package: ulem 2012/05/18
+\ULdepth=\dimen107
+)
+("C:/Users/91927/Downloads/PBS Report\xcolor.sty"
+Package: xcolor 2004/07/04 v2.00 LaTeX color extensions (UK)
+
+("C:\Users\91927\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 136.
+Package xcolor Info: Color model `cmy' added on input line 972.
+Package xcolor Info: Color model `hsb' added on input line 980.
+Package xcolor Info: Color model `HTML' added on input line 1000.
+Package xcolor Info: Color model `HSB' added on input line 1006.
+Package xcolor Info: Color model `Gray' added on input line 1012.
+) ("C:/Users/91927/Downloads/PBS Report\Seminar Report.aux")
+\openout1 = `"Seminar Report.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
